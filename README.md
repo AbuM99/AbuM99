@@ -3,7 +3,7 @@
 
 🔭 Currently: SOC Analyst L1 @ Al-Aman Tech-Solutions
 🌍 South Africa — open to relocation nationally
-🎯 Pursuing all CompTIA Aligned ccertifitions | Active on TryHackMe
+🎯 Pursuing CompTIA certifitions | Active on TryHackMe
 📫 Abubakrmodise@gmail.com
 
 ## 🛡️ Core Stack
