@@ -1,4 +1,4 @@
-# Hi, I'm Olebogeng (Abubakr) Modise 👋
+# Hi, I'm Olebogeng Kgomotso Abubakr Modise 👋
 ## SOC Analyst | Threat Hunter | Blue Team Practitioner
 
 🔭 Currently: SOC Analyst L1 @ Al-Aman Tech-Solutions
