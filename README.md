@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Olebogeng (Abubakr) Modise 👋
+## SOC Analyst | Threat Hunter | Blue Team Practitioner
 
-<!--
-**AbuM99/AbuM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently: SOC Analyst L1 @ Al-Aman Tech-Solutions
+🌍 South Africa — open to relocation nationally
+🎯 Pursuing all CompTIA Aligned ccertifitions | Active on TryHackMe
+📫 Abubakrmodise@gmail.com
 
-Here are some ideas to get you started:
+## 🛡️ Core Stack
+Microsoft Sentinel • Splunk • CrowdStrike • KQL • MITRE ATT&CK • Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| AI Phishing Detector | ML URL analyser | Python, VirusTotal API |
+| Ransomware Monitor | EDR alert triage | Sentinel, KQL, Python |
+| Insider Threat UEBA | Anomaly detector | Python, Isolation Forest |
